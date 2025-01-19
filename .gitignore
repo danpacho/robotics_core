@@ -1,0 +1,8 @@
+urdf
+urdf.*
+assets
+
+# python
+*.pyc
+__pycache__/
+*.html
